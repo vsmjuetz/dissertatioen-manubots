@@ -1,0 +1,62 @@
+[
+  {
+    "name": "manubot",
+    "clone_url": "https://github.com/manubot/manubot.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/manubot'..."
+  },
+  {
+    "name": "rootstock",
+    "clone_url": "https://github.com/manubot/rootstock.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/rootstock'..."
+  },
+  {
+    "name": "resources",
+    "clone_url": "https://github.com/manubot/resources.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/resources'..."
+  },
+  {
+    "name": "try-manubot",
+    "clone_url": "https://github.com/manubot/try-manubot.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/try-manubot'..."
+  },
+  {
+    "name": "manubot.org",
+    "clone_url": "https://github.com/manubot/manubot.org.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/manubot.org'...\nAktualisiere Dateien:  41% (26/62)\nAktualisiere Dateien:  43% (27/62)\nAktualisiere Dateien:  45% (28/62)\nAktualisiere Dateien:  46% (29/62)\nAktualisiere Dateien:  48% (30/62)\nAktualisiere Dateien:  50% (31/62)\nAktualisiere Dateien:  51% (32/62)\nAktualisiere Dateien:  53% (33/62)\nAktualisiere Dateien:  54% (34/62)\nAktualisiere Dateien:  56% (35/62)\nAktualisiere Dateien:  58% (36/62)\nAktualisiere Dateien:  59% (37/62)\nAktualisiere Dateien:  61% (38/62)\nAktualisiere Dateien:  62% (39/62)\nAktualisiere Dateien:  64% (40/62)\nAktualisiere Dateien:  66% (41/62)\nAktualisiere Dateien:  67% (42/62)\nAktualisiere Dateien:  69% (43/62)\nAktualisiere Dateien:  70% (44/62)\nAktualisiere Dateien:  72% (45/62)\nAktualisiere Dateien:  74% (46/62)\nAktualisiere Dateien:  75% (47/62)\nAktualisiere Dateien:  77% (48/62)\nAktualisiere Dateien:  79% (49/62)\nAktualisiere Dateien:  80% (50/62)\nAktualisiere Dateien:  82% (51/62)\nAktualisiere Dateien:  83% (52/62)\nAktualisiere Dateien:  85% (53/62)\nAktualisiere Dateien:  87% (54/62)\nAktualisiere Dateien:  88% (55/62)\nAktualisiere Dateien:  90% (56/62)\nAktualisiere Dateien:  91% (57/62)\nAktualisiere Dateien:  93% (58/62)\nAktualisiere Dateien:  95% (59/62)\nAktualisiere Dateien:  96% (60/62)\nAktualisiere Dateien:  98% (61/62)\nAktualisiere Dateien: 100% (62/62)\nAktualisiere Dateien: 100% (62/62), fertig."
+  },
+  {
+    "name": "catalog",
+    "clone_url": "https://github.com/manubot/catalog.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/catalog'..."
+  },
+  {
+    "name": "manufesto",
+    "clone_url": "https://github.com/manubot/manufesto.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/manufesto'..."
+  },
+  {
+    "name": "template",
+    "clone_url": "https://github.com/manubot/template.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/template'..."
+  },
+  {
+    "name": "manubot-ai-editor",
+    "clone_url": "https://github.com/manubot/manubot-ai-editor.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/manubot-ai-editor'..."
+  },
+  {
+    "name": "manubot-usage-stats",
+    "clone_url": "https://github.com/manubot/manubot-usage-stats.git",
+    "status": "cloned",
+    "message": "Klone nach '/Users/martin/dissertation_manubots/manubot-usage-stats'..."
+  }
+]
