@@ -1,1 +1,10 @@
-# dissertatioen-manubots
+{
+  "servers": {
+    "hf-mcp-server": {
+      "url": "https://huggingface.co/mcp",
+      "headers": {
+        "Authorization": "Bearer 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"
+      }
+    }
+  }
+}
